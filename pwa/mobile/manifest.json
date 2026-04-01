@@ -2,7 +2,7 @@
   "name": "법인카드 지출 관리",
   "short_name": "법인카드",
   "description": "법인카드 사용금액 입력 및 한도 관리",
-  "start_url": "/",
+  "start_url": "/beopka/pwa/mobile/",
   "display": "standalone",
   "background_color": "#F5F3EE",
   "theme_color": "#1A1814",
